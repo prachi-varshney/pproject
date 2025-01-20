@@ -80,3 +80,12 @@ function addForm() {
 ?>
 
 
+
+Name=id<|||>OldName=id<|||>DataType=3<|||>OldDataType=53<|||>LengthSet=11<|||>Unsigned=0<|||>AllowNull=0<|||>ZeroFill=0<|||>LengthCustomized=0<|||>DefaultType=3<|||>DefaultText=AUTO_INCREMENT<|||>OnUpdateType=0<|||>OnUpdateText=<|||>Comment=<|||>Charset=<|||>Collation=<|||>GenerationExpression=<|||>Virtuality=<|||>Status=0
+Name=name<|||>OldName=name<|||>DataType=27<|||>OldDataType=53<|||>LengthSet=50<|||>Unsigned=0<|||>AllowNull=1<|||>ZeroFill=0<|||>LengthCustomized=0<|||>DefaultType=2<|||>DefaultText=<|||>OnUpdateType=0<|||>OnUpdateText=<|||>Comment=<|||>Charset=utf8mb4<|||>Collation=utf8mb4_general_ci<|||>GenerationExpression=<|||>Virtuality=<|||>Status=0
+Name=email<|||>OldName=email<|||>DataType=27<|||>OldDataType=53<|||>LengthSet=50<|||>Unsigned=0<|||>AllowNull=0<|||>ZeroFill=0<|||>LengthCustomized=0<|||>DefaultType=0<|||>DefaultText=<|||>OnUpdateType=0<|||>OnUpdateText=<|||>Comment=<|||>Charset=utf8mb4<|||>Collation=utf8mb4_general_ci<|||>GenerationExpression=<|||>Virtuality=<|||>Status=0
+Name=password<|||>OldName=password<|||>DataType=27<|||>OldDataType=53<|||>LengthSet=35<|||>Unsigned=0<|||>AllowNull=0<|||>ZeroFill=0<|||>LengthCustomized=0<|||>DefaultType=0<|||>DefaultText=<|||>OnUpdateType=0<|||>OnUpdateText=<|||>Comment=<|||>Charset=utf8mb4<|||>Collation=utf8mb4_general_ci<|||>GenerationExpression=<|||>Virtuality=<|||>Status=0
+Name=phone<|||>OldName=phone<|||>DataType=5<|||>OldDataType=53<|||>LengthSet=20<|||>Unsigned=0<|||>AllowNull=1<|||>ZeroFill=0<|||>LengthCustomized=0<|||>DefaultType=2<|||>DefaultText=<|||>OnUpdateType=0<|||>OnUpdateText=<|||>Comment=<|||>Charset=<|||>Collation=<|||>GenerationExpression=<|||>Virtuality=<|||>Status=0
+
+
+
